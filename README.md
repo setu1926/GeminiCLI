@@ -372,3 +372,14 @@ See the [Uninstall Guide](docs/cli/uninstall.md) for removal instructions.
 <p align="center">
   Built with ❤️ by Google and the open source community
 </p>
+
+---
+
+## 🌟 My Gemini CLI Experience
+
+As part of my Agile and DevOps learning activity, I successfully installed and configured the Gemini CLI using Node.js and the Google AI API. During the process, I fixed PowerShell execution policies, generated a Google API key, and executed my first live command:
+
+> "Hello from Gemini CLI by Google!"
+
+The command confirmed a successful connection with the Gemini model.  
+Through this exercise, I gained hands-on experience with API integration, terminal-based AI execution, repository branching, and merge conflict resolution in GitHub.

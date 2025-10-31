@@ -56,3 +56,4 @@ gha-creds-*.json
 patch_output.log
 
 .genkit
+Gemini/packages/core/src/code_assist/oauth2.ts

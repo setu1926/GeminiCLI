@@ -1,0 +1,3 @@
+Create a short Markdown report titled 'Gemini CLI Proof'.
+Include today's date and 5 bullet points summarizing this repository.
+End with one sentence: 'Generated via Gemini CLI.'
